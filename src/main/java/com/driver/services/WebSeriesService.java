@@ -1,8 +1,7 @@
 package com.driver.services;
 
 import com.driver.EntryDto.WebSeriesEntryDto;
-import com.driver.Exception.ProductionError;
-import com.driver.Exception.ProductionError;
+import com.driver.ProductionError;
 import com.driver.WebSeriesTransformer;
 import com.driver.model.ProductionHouse;
 import com.driver.model.WebSeries;
